@@ -36,14 +36,14 @@ I am currently working at WSO2 as a Technical Lead, Product Manager of Choreo Co
 * [How to convert Microservices on Istio into API Products](https://www.youtube.com/watch?v=SILU31upC7g&list=PLC7QzKjxCjo25dqu4IEhZ-YlfldpKyB7C) (July, 2020)
 * [New Graphs and Charts related to API Analytics, WSO2 APIM Screencast](https://www.youtube.com/watch?v=8fJMs4XFpQo) (Nov, 2016)
 
-## Research Papers / Articles (Author)
+## Research Papers / Articles (Author) [4]
 
 * [Kubernetes API Operator: Apply API Management for Istio Microservices](https://hackernoon.com/kubernetes-api-operator-apply-api-management-for-istio-microservices-qs5e3yrq) (2020)
 * [Why You Should Re-evaluate the Strength of Your API Security](https://www.programmableweb.com/news/why-you-should-re-evaluate-strength-your-api-security/analysis/2020/04/29) (2020)
 * [API Management in Istio Microservices Using the Kubernetes API Operator](https://wso2.com/library/articles/api-management-in-istio-microservices-using-the-kubernetes-api-operator/) (2020)
 * [Building a Cloud-Native API Management Architecture With CI/CD](https://wso2.com/library/articles/building-a-cloud-native-api-management-architecture-with-ci-cd/) (2020)
 
-## Blogs (Author)
+## Blogs (Author) [10]
 
 * [How to secure your APIs](https://medium.com/api-integration-essentials/how-to-secure-your-apis-4e99cbf679ff)
 * [Blue-green Deployments and Canary Releases for WSO2 API Microgateway in Kubernetes](https://medium.com/@pubudu538/blue-green-deployments-and-canary-releases-for-wso2-api-microgateway-in-kubernetes-6db7359e811e)
