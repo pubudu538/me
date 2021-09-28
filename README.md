@@ -38,6 +38,7 @@ I am currently working at WSO2 as a Technical Lead, Product Manager of Choreo Co
 
 ## Research Papers / Articles (Author) [4]
 
+* [Blue-green Deployments and Canary Releases for WSO2 API Microgateway in Kubernetes](https://wso2.com/blogs/thesource/2019/09/blue-green-deployments-and-canary-releases-for-wso2-api-microgateway-in-kubernetes/) (2019)
 * [Kubernetes API Operator: Apply API Management for Istio Microservices](https://hackernoon.com/kubernetes-api-operator-apply-api-management-for-istio-microservices-qs5e3yrq) (2020)
 * [Why You Should Re-evaluate the Strength of Your API Security](https://www.programmableweb.com/news/why-you-should-re-evaluate-strength-your-api-security/analysis/2020/04/29) (2020)
 * [API Management in Istio Microservices Using the Kubernetes API Operator](https://wso2.com/library/articles/api-management-in-istio-microservices-using-the-kubernetes-api-operator/) (2020)
