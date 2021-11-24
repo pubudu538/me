@@ -1,6 +1,6 @@
 ## Pubudu Gunatilaka
 
-I am currently working at WSO2 as a Technical Lead, Product Manager of Choreo Connect. I graduated from the University of Moratuwa, Sri Lanka specializing in Computer Science and Engineering. I am a committer at Apache Stratos and I have a keen interest in Cloud technologies such as Istio, Kubernetes, Docker, Envoy, etc. My interests are big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing. 
+I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Choreo Connect. I graduated from the University of Moratuwa, Sri Lanka specializing in Computer Science and Engineering. I am a committer at Apache Stratos and I have a keen interest in Cloud technologies such as Istio, Kubernetes, Docker, Envoy, etc. My interests are big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing. 
 
 * **LinkedIn:** https://www.linkedin.com/in/pubudugunatilaka/
 * **Twitter:** https://twitter.com/PubuduSpace
