@@ -19,7 +19,7 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 ## Conferences (Attendee) [2]
 
 * API Days ([2021](https://www.apidays.global/))
-* WSO2 Con Asia[2014, Colombo](https://asia14.wso2con.com/)
+* WSO2 Con Asia ([2014, Colombo](https://asia14.wso2con.com/))
 
 ## Workshops (Speaker) [2]
 
