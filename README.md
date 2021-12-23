@@ -11,8 +11,11 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 ## Conferences (Speaker) [2]
 
 * API Days ([Sept 2020](https://www.apidays.global/australia2020/))
+   - Session Title: **Productising your Microservices as API Products**
 * WSO2 Integration Summit ([May 2019](https://wso2.com/integration-summit/stuttgart-2019/))
-
+   - Session Title: **Decentralizing APIs for agile businesses**
+   - Session Title: **Identity and Access Management in an API-driven World**
+   
 ## Conferences (Attendee) [2]
 
 * API Days ([2021](https://www.apidays.global/))
