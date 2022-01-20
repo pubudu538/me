@@ -24,7 +24,7 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 ## Workshops (Speaker) [2]
 
 * [Live Training, WSO2 API Manager](https://lms.wso2.com/enrollments) (May 2021, Virtual)
-* [Cloud-Native API Management on Kubernetes](https://wso2.com/events/workshops/2020-june-apac-cloud-native-api-management-on-kubernetes/) (June 2019, Virtual)
+* [Cloud-Native API Management on Kubernetes](https://wso2.com/events/workshops/2020-june-apac-cloud-native-api-management-on-kubernetes/) (June 2020, Virtual)
 
 ## Webinars (Speaker) [5]
 
