@@ -1,6 +1,6 @@
 ## Pubudu Gunatilaka
 
-I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Choreo Connect. I graduated from the University of Moratuwa, Sri Lanka specializing in Computer Science and Engineering. I am a committer at Apache Stratos and I have a keen interest in Cloud technologies such as Istio, Kubernetes, Docker, Envoy, etc. My interests are big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing. 
+I am currently a Senior Technical Lead at WSO2. I graduated from the University of Moratuwa, Sri Lanka, with a specialization in Computer Science and Engineering. As a committer at Apache Stratos, I have a strong interest in cloud technologies, including Istio, Kubernetes, Docker, and Envoy. My areas of interest include big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing.
 
 * **LinkedIn:** https://www.linkedin.com/in/pubudugunatilaka/
 * **Twitter:** https://twitter.com/PubuduSpace
@@ -8,13 +8,21 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 * **Stack Overflow:** https://stackoverflow.com/users/3176125/pubci
 * **Instagram:** https://www.instagram.com/pubci/
 
-## Conferences (Speaker) [2]
+## Conferences (Speaker) [3]
 
+* API Days Paris([Dec 2023](https://www.apidays.global/paris2023/))
+   - Session Title: **Kubernetes Gateways: Crafting Seamless Cloud-Native API Management Architectures**
+   - Slides: https://www.slideshare.net/slideshow/apidays-paris-2023-kubernetes-gateways-pubudu-gunatilaka-wso2/265005608
 * API Days ([Sept 2020](https://www.apidays.global/australia2020/))
    - Session Title: **Productising your Microservices as API Products**
+   - Slides: https://www.slideshare.net/slideshow/apidays-live-australia-productising-your-microservices-as-api-products-by-pubudu-gunatilaka/238545432
 * WSO2 Integration Summit ([May 2019](https://wso2.com/integration-summit/stuttgart-2019/))
-   - Session Title: **Decentralizing APIs for agile businesses**
-   - Session Title: **Identity and Access Management in an API-driven World**
+   - Session 1:
+     - Session Title: **Decentralizing APIs for agile businesses**
+     - Slides: https://www.slideshare.net/slideshow/wso2-integration-summit-stuttgart-2019-decentralizing-apis-for-agile-businesses-161471460/161471460
+   - Session 2:
+     - Session Title: **Identity and Access Management in an API-driven World**
+     - Slides: https://www.slideshare.net/slideshow/wso2-integration-summit-stuttgart-2019-identity-and-access-management-in-an-apidriven-world/161470052
    
 ## Conferences (Attendee) [2]
 
@@ -26,16 +34,18 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 * [Live Training, WSO2 API Manager](https://lms.wso2.com/enrollments) (May 2021, Virtual)
 * [Cloud-Native API Management on Kubernetes](https://wso2.com/events/workshops/2020-june-apac-cloud-native-api-management-on-kubernetes/) (June 2020, Virtual)
 
-## Webinars (Speaker) [5]
+## Webinars (Speaker) [6]
 
+* [The Future of API Gateways on Kubernetes](https://youtu.be/LcgPqFJ1O6k?si=FJ96L4sYUPTWVBGK) (Aug., 2023)
 * [How to Build a Scalable, Distributed, Multi-Cloud API Architecture on Kubernetes](https://wso2.com/library/webinars/how-to-build-a-scalable-distributed-multi-cloud-api-architecture/) (Sept., 2020)
 * [Creating a Scalable and Decentralized API Management Architecture with WSO2 API Manager](https://wso2.com/library/webinars/creating-a-scalable-and-decentralized-api-management-architecture-with-wso2-api-manager/) (April, 2020)
 * [Cloud Native APIs: The API Operator for Kubernetes](https://wso2.com/library/webinars/2019/11/cloud-native-apis-the-api-operator-for-kubernetes/) (Nov, 2019)
 * [Deploying WSO2 API Manager in Production-Grade Kubernetes](https://wso2.com/library/webinars/2019/06/deploying-wso2-api-manager-in-production-grade-kubernetes/) (June, 2019)
 * [API Management in Service Mesh Using Istio and WSO2 API Manager](https://wso2.com/library/webinars/2019/05/api-management-in-service-mesh-using-istio-and-wso2-api-manager/) (May, 2019)
 
-## Screencasts [2]
+## Screencasts [3]
 
+* [Kubernetes Native API Management: Create and Deploy APIs with WSO2 APK](https://youtu.be/uHhXKLqXYY8?si=XwNKHEO1fKRYzFaT)
 * [How to convert Microservices on Istio into API Products](https://www.youtube.com/watch?v=SILU31upC7g&list=PLC7QzKjxCjo25dqu4IEhZ-YlfldpKyB7C) (July, 2020)
 * [New Graphs and Charts related to API Analytics, WSO2 APIM Screencast](https://www.youtube.com/watch?v=8fJMs4XFpQo) (Nov, 2016)
 
@@ -75,8 +85,9 @@ I am currently working at WSO2 as a Senior Technical Lead, Product Manager of Ch
 * Netherlands (Amsterdam, Rotterdam)
 * Germany (Stuttgart)
 * Thailand (Bangkok)
-* Malaysia (Kuala Lumpur)
+* Malaysia (Kuala Lumpur, Kota Kinabalu)
 * Singapore (Singapore)
 * India (Chennai)
 * Philippines (Manila, Makati)
 * UAE (Dubai)
+* France (Paris)
