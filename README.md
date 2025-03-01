@@ -30,9 +30,10 @@ I am currently an architect at WSO2. I graduated from the University of Moratuwa
      - Session Title: **Identity and Access Management in an API-driven World**
      - Slides: https://www.slideshare.net/slideshow/wso2-integration-summit-stuttgart-2019-identity-and-access-management-in-an-apidriven-world/161470052
    
-## Conferences (Attendee) [2]
+## Conferences (Attendee) [3]
 
-* API Days ([2021](https://www.apidays.global/))
+* KubeCon North America ([2024, Salt Lake City](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/))
+* API Days ([2021, Virtual](https://www.apidays.global/))
 * WSO2 Con Asia ([2014, Colombo](https://asia14.wso2con.com/))
 
 ## Workshops (Speaker) [2]
