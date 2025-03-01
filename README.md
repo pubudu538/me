@@ -1,6 +1,6 @@
 ## Pubudu Gunatilaka
 
-I am currently a Senior Technical Lead at WSO2. I graduated from the University of Moratuwa, Sri Lanka, with a specialization in Computer Science and Engineering. As a committer at Apache Stratos, I have a strong interest in cloud technologies, including Istio, Kubernetes, Docker, and Envoy. My areas of interest include big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing.
+I am currently an architect at WSO2. I graduated from the University of Moratuwa, Sri Lanka, with a specialization in Computer Science and Engineering. As a committer at Apache Stratos, I have a strong interest in cloud technologies, including Istio, Kubernetes, Docker, and Envoy. My areas of interest include big data analysis, software engineering, computer architecture, data mining, distributed computing, mobile computing, and cloud computing.
 
 * **LinkedIn:** https://www.linkedin.com/in/pubudugunatilaka/
 * **Twitter:** https://twitter.com/PubuduSpace
@@ -8,11 +8,17 @@ I am currently a Senior Technical Lead at WSO2. I graduated from the University 
 * **Stack Overflow:** https://stackoverflow.com/users/3176125/pubci
 * **Instagram:** https://www.instagram.com/pubci/
 
-## Conferences (Speaker) [3]
+## Conferences (Speaker) [5]
 
+* Nordic APIs - Platform Summit([Oct 2024](https://www.apidays.global/paris2023/))
+   - Session Title: **Implementing Zero Trust Security in API Gateway with Cilium**
+   - Slides: [Implementing Zero Trust Security in API Gateway with Cilium](https://nordicapis.com/sessions/implementing-zero-trust-security-in-api-management-with-cilium/)
+* Conf42 - Kube Native([Sept 2024](https://www.conf42.com/kubenative2024))
+   - Session Title: **Streamlining API Governance: Kubernetes Native API Management**
+   - Slides: [https://www.slideshare.net/slideshow/apidays-paris-2023-kubernetes-gateways-pubudu-gunatilaka-wso2/265005608](https://www.conf42.com/Kube_Native_2024_Pubudu_Gunatilaka_api_governance_kubernetes_api_management)
 * API Days Paris([Dec 2023](https://www.apidays.global/paris2023/))
    - Session Title: **Kubernetes Gateways: Crafting Seamless Cloud-Native API Management Architectures**
-   - Slides: https://www.slideshare.net/slideshow/apidays-paris-2023-kubernetes-gateways-pubudu-gunatilaka-wso2/265005608
+   - Slides: [https://www.slideshare.net/slideshow/apidays-paris-2023-kubernetes-gateways-pubudu-gunatilaka-wso2/265005608](https://www.conf42.com/Kube_Native_2024_Pubudu_Gunatilaka_api_governance_kubernetes_api_management)
 * API Days ([Sept 2020](https://www.apidays.global/australia2020/))
    - Session Title: **Productising your Microservices as API Products**
    - Slides: https://www.slideshare.net/slideshow/apidays-live-australia-productising-your-microservices-as-api-products-by-pubudu-gunatilaka/238545432
@@ -91,3 +97,5 @@ I am currently a Senior Technical Lead at WSO2. I graduated from the University 
 * Philippines (Manila, Makati)
 * UAE (Dubai)
 * France (Paris)
+* Swedan (Stockholm)
+* Denmark (Copenhagen)
